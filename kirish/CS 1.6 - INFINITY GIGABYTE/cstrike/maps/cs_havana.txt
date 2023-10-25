@@ -1,0 +1,20 @@
+La Havane - Sauvetage des otages
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+
+Terroristes : vous détenez des
+otages politiques dans Habana Vieja,
+et vous attendez un hélicoptère qui
+viendra vous évacuer à la fin du tour.
+
+Contre-terroristes : vous avez le
+contrôle du périmètre et vous devez
+secourir tous les otages survivants
+avant que les terroristes ne parviennent
+à s'échapper.
+
+
+
+(Appuyez sur Feu pour continuer)

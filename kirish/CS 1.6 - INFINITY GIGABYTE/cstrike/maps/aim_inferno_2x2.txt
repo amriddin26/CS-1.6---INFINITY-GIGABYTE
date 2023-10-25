@@ -1,0 +1,16 @@
+de_inferno_2x2 - Defusion
+
+By Konstantin Panov (Bruta1ity)
+
+Original map de_inferno by Chris Auty (Barney)
+
+Terrorist are attempting to blow up the critical
+gas pipeline through part of a small village.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the pipeline.
+
+Terrorists: Destroy the gas pipeline.
+
+Other Notes: There are 1 bomb site in this 
+mission.

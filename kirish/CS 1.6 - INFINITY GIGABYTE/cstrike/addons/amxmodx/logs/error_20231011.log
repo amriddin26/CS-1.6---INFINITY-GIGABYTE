@@ -1,0 +1,5 @@
+L 10/11/2023 - 17:07:33: Start of error session.
+L 10/11/2023 - 17:07:33: Info (map "aim_dust2_2x2_long") (file "addons/amxmodx/logs/error_20231011.log")
+L 10/11/2023 - 17:07:33: Function "MenuCommand" was not found
+L 10/11/2023 - 17:07:33: [AMXX] Run time error 19 (plugin "darkmod.amxx") - debug not enabled!
+L 10/11/2023 - 17:07:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
