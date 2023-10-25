@@ -1,0 +1,17 @@
+
+<html>
+  <head>
+    <title>csmoreni.tk</title>
+    <meta name="description" content="csmoreni.tk">
+    <meta name="keywords" content="automatically,register,password,calendar,username,search">
+  </head>
+  <frameset rows="*,0" framespacing="0" border="0" frameborder="NO">
+    <frame src="http://csmoreni.darkbb.com/" name="dot_tk_frame_content" scrolling="auto" noresize>
+    <frame src="http://park.dot.tk/dottk/trend" name="dot_tk_frame_trend" scrolling="no" noresize height="0">
+  </frameset>
+  <noframes>
+    <body>
+    </body>
+  </noframes>
+
+</html>

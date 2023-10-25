@@ -1,0 +1,12 @@
+aim_dgl_cbble - Aim map
+Map by Equel (bannanolle@hotmail.com)
+Speacial thanks to Gegge
+
+Terrorists: Kill CT's
+
+Counter-Terrorists: Kill T's
+
+Other Notes: Round does not end
+until one team has been eliminated!
+
+(Press FIRE to continue)

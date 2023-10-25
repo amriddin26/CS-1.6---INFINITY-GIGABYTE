@@ -1,0 +1,21 @@
+OilRig - Assassinat
+Map de MacMan (macmaninfi@aol.com)
+Textures de MacMan
+Hélicoptère Westland Wessex par Agent Orange 
+[agentorange@freemail.nl]
+
+Contexte : le plus célèbre témoin d'un crime se 
+cache sur une plate-forme pétrolière dans le cadre 
+d'un programme de protection des témoins. Il semble
+que sa planque a été découverte. Un hélicoptère arrive 
+pour le transporter ailleurs.
+
+
+Anti-terroristes : protégez le VIP à tout prix. 
+Escortez-le jusqu'à l'hélicoptère.
+
+Terroristes : éliminez le VIP avant qu'il ne s'enfuie.
+
+
+(Appuyez sur TIR pour continuer)
+

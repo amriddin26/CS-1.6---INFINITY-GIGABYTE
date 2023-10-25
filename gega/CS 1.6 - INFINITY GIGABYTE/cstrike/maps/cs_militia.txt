@@ -1,0 +1,14 @@
+Militia - Prise d'otages
+de Andrew Aumann (andrewja@home.com)
+
+Anti-terroristes : entrez dans le complexe de 
+Cliffe pour libérer les otages. Faites sortir 
+les terroristes sans mettre en danger la vie des otages.
+
+Terroristes : empêchez l'équipe anti-terroriste de 
+libérer les otages.
+
+Remarques supplémentaires : il y a 4 otages 
+dans la mission et un flotteur. 
+
+(Appuyez sur TIR pour continuer)
