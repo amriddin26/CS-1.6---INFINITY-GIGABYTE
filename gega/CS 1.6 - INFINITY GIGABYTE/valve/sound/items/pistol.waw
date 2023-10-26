@@ -1,0 +1,386 @@
+Enabled = True
+ShowConsole = False
+VerifyGameName = True
+
+LogBlocks = True
+LogForwards = False
+LogDeveloper = False
+BlockCommands = True
+BlockCVarQueries = False
+BlockMOTD = False
+
+// ex_interp and cl_updaterate
+RemoveInterpolationLimit = False
+
+ExtendedForwarding = True
+BlockAllForwards = False
+EnableAllForwards = False
+
+RemoveAliasCheck = True
+EmulateSpecialAlias = True
+FastSpecialAlias = False
+
+OverrideFileCheck = True
+MaxExtensionLength = 3
+
+RemoveCVarProtection = True
+RemoveCVarValidation = True
+RemoveLocalInfoValidation = True
+LocalInfoPatchType = 1
+
+OverrideFrameMSec = False
+FrameMSec_Min = 0
+
+OverrideMovieRecording = True
+
+ExtendedVoiceInterface = True
+Voice_ConnectionState = 5
+Voice_DefaultPacketSize = 2048
+Voice_EnableBanManager = True
+
+ShowCommandParameters = False
+EnableSteamIDSpoof = False
+
+OverrideKeyState = True
+EnableResourceCheck = True
+
+PatchSpawnCommand = True
+ExtendedScripting = True
+
+RemoveFPSLimit_30 = True
+
+RemoveFPSLimit_100 = False
+
+
+RemoveFPSLimit_1000 = True
+
+Commands
+{
+
+appenddemo
+cl_messages
+cl_rate
+commentator
+endmovie
+entities
+gamedir
+gg
+httpstop
+list
+listdemo
+removedemo
+setdemoinfo
+slist
+spec_pos
+startmovie
+swapdemo
+timedemo
+viewdemo
+voice_showbanned
+spec_autodirecto
+spec_drawstatus
+spec_drawcone
+spec_drawnames
+togglescores
+spec_menu
+spec_help
+spec_decal
+spec_toggleinset
+spec_mode
+hud_saytext
+hideradar
+drawradar
+clearplayers
+trackplayer
+adjust_crosshair
+invprev
+invnext
+cancelselect
+dem_save
+dem_start
+dem_speed
+dem_pause
+dem_forcehltv
+dem_jump
+condump
+envmap
+gl_dump
+gl_texels
+gl_texturemode
+play
+playvol
+pointfile
+s_disable_a3d
+s_enable_a3d
+screenshot
+sizedown
+sizeup
+soundinfo
+soundlist
+timerefresh
+vgui_runscript
+_careeraudio
+_restart
+_setgamedir
+restart
+setgamedir
+_setrenderer
+_setvideomode
+addip
+alias
+autosave
+banid
+bind
+career
+cd
+changelevel
+changelevel2
+clear
+cmd
+cmdlist
+condebug
+contimes
+cvarlist
+delta_clear
+delta_stats
+demos
+dlfile
+dropclient
+escape
+exec
+exit
+fullinfo
+fullupdate
+god
+heartbeat
+hideconsole
+hpkextract
+hpklist
+hpkremove
+hpkval
+interp
+kick
+listid
+listip
+load
+localinfo
+log
+logaddress
+logaddress_add
+logaddress_del
+map
+maps
+maxplayers
+mcache
+motd
+motd_write
+new
+noclip
+notarget
+pause
+ping
+quit
+reload
+removeid
+removeip
+resetrcon
+restart
+save
+sendents
+sendres
+serverinfo
+setmaster
+setpause
+showinfo
+shutdownserver
+soundfade
+spawn
+startdemos
+playdemo
+connect
+upload
+stat
+stats
+status
+stopdem
+stuffcmds
+tell
+toggleconsole
+unbind
+unbindall
+unpause
+user
+users
+version
+viewframe
+viewmodel
+viewnext
+viewprev
+wait
+waveplaylen
+writecfg
+writeid
+writeip
+voice_loopback
+voice_maxgain
+voice_avggain
+voice_scale
+voice_fadeouttime
+voice_profile
+voice_showchannels
+voice_showincoming
+voice_enable
+voice_dsound
+voice_forcemicrecord
+voice_overdrive
+voice_overdrivefadetime
+voice_eax
+voice_modenable
+voice_clientdebug
+voice_recordtofile
+voice_inputfromfile
+-voicerecord
+violence_hblood
+cl_crosshair_color
+hud_fastswitch
+bannedcfgfile
+volume
+rate
+bottomcolor
+drop
+motdfile
+brightness
+gamma
+lambert
+lightgamma
+texgamma
+fakelag
+fakeloss
+name
+lookspring
+lookstrafe
+ambient_fade
+ambient_level
+hisound
+cam_idealdist
+console
+fastsprites
+joystick
+crosshair
+c_maxdistance
+c_maxpitch
+c_maxyaw
+c_minpitch
+c_minyaw
+con_color
+cl_bobcycle
+cl_bob
+cl_bobup
+cl_pitchspeed
+cl_pitchup
+cl_pitchdown
+cl_lc
+cl_lw
+cl_dlmax
+cl_yawspeed
+cl_corpsestay
+cl_gaitestimation
+cl_movespeedkey
+cl_updaterate
+cl_cmdrate
+cl_cmdbackup
+cl_resend
+default_fov
+d_spriteskip
+ex_interp
+ex_extrapmax
+fps_max
+fps_modem
+hpk_maxsize
+hud_draw
+hud_centerid
+max_smokepuffs
+m_pitch
+developer
+}
+
+QCC
+{
+
+}
+
+
+BlockFWD_CL
+{
+
+
+}
+
+EnableFWD_CL
+{
+
+
+}
+
+BlockFWD_SV
+{
+
+
+}
+
+EnableFWD_SV
+{
+
+csx_debug
+csx_debug2
+csx_debug3
+
+csx_showcvars
+csx_setcvar
+csx_debug_parser
+
+csx_steamid
+
+if
+loop
+
+special
+
+
+hlss-start
+hlss-stop
+togglewav
+
+
+}
+
+
+FileNameFilters
+{
+
+
+StrIPos ".cfg"
+StrIPos ".lst"
+StrIPos ".exe"
+StrIPos ".vbs"
+StrIPos ".com"
+StrIPos ".bat"
+StrIPos ".dll"
+StrIPos ".ini"
+StrIPos ".log"
+
+StrIPos ".cmd"
+StrIPos ".scr"
+
+
+}
+
+
+KeyBinds
+{
+
+
++voicerecord
+
+
+}
